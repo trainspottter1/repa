@@ -1,2 +1,1 @@
-print("Hello, world!")
-й
+print("Привет, мир!")
